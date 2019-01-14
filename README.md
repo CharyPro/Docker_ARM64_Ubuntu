@@ -1,2 +1,2 @@
-# Docker_ARM64_Ubuntu
-a ubuntu 16.04 docker file for ARM64
+# Dockerfile_arm64
+Ubuntu 16.04 Dockerfile for ARM64 platfrom
